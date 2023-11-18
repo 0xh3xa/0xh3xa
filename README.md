@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ==============================================================================================================================
 -->
 
-Passionate software engineer enamored with low-level programming, security, and operating systems. Dedicated to continually refining skills and expertise in the realms of security and software engineering.
+Passionate software engineer enamored with low-level programming, security, and operating systems. Dedicated to continually refining skills and expertise in the realms of security.
 
 
 <!--Software Engineer | Reverse Engineer

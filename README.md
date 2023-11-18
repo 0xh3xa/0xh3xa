@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 0xh3xa</h1>
+<h1 align="center">Hi there 👋 </h1>
 
 
 <!--
@@ -24,6 +24,8 @@ Passionate software engineer enamored with low-level programming, security, and 
 <!--Software Engineer | Reverse Engineer
 -----------------
 -->
+
+<br/>
 
 <div>
 <a href="https://www.github.com/0xh3xa" target="_blank" rel="noreferrer"><img

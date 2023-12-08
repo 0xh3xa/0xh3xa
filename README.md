@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 Passionate software engineer enamored with security, low-level programming, and operating systems. Dedicated to continually refining skills and expertise in the realms of security.
 
 * ✉️  You can contact me at [0xh3xa@gmail.com](mailto:0xh3xa@gmail.com)
+* My story: https://0xh3xa.github.io/about
 
 <br/>
 
@@ -50,7 +51,6 @@ src="https://img.shields.io/github/followers/0xh3xa?logo=github&style=for-the-ba
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 -->
-
 
 ### Socials
 

@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Passionate software engineer enamored with security, low-level programming, and operating systems. Dedicated to continually refining skills and expertise in the realms of security.
 
-* My story: https://0xh3xa.github.io/about
+<!--* My story: https://0xh3xa.github.io/about-->
 
 <br/>
 
